@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover_image": "https://i.ibb.co/54rk7jv/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
+    "title": "Top 10 ES6 Features You Must Know",
+    "author": "John Doe",
+    "author_image": "https://i.ibb.co/W293xN1/free1.jpg",
+    "posted_date": "Today",
+    "reading_time": 10,
+    "hashtags": ["#fiction", "#LoremIpsum", "#writing"]
+  },
+  {
+    "id": "2",
+    "cover_image": "https://i.ibb.co/54rk7jv/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
+    "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+    "author": "Jane Smith",
+    "author_image": "https://i.ibb.co/W293xN1/free1.jpg",
+    "posted_date": "Yesterday",
+    "reading_time": 8,
+    "hashtags": ["#philosophy", "#random"]
+  },
+  {
+    "id": "3",
+    "cover_image": "https://i.ibb.co/54rk7jv/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
+    "title": "Component lifecycle in React — Class component vs Functional component",
+    "author": "Alice Johnson",
+    "author_image": "https://i.ibb.co/W293xN1/free1.jpg",
+    "posted_date": "2 days ago",
+    "reading_time": 12,
+    "hashtags": ["#health", "#fitness"]
+  },
+  {
+    "id": "4",
+    "cover_image": "https://i.ibb.co/54rk7jv/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
+    "title": "Free images and resources collection for website",
+    "author": "Robert Williams",
+    "author_image": "https://i.ibb.co/W293xN1/free1.jpg",
+    "posted_date": "3 days ago",
+    "reading_time": 15,
+    "hashtags": ["#technology", "#coding"]
+  },
+  {
+    "id": "5",
+    "cover_image": "https://i.ibb.co/54rk7jv/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
+    "title": "Free images and resources collection for website",
+    "author": "Emily Brown",
+    "author_image": "https://i.ibb.co/W293xN1/free1.jpg",
+    "posted_date": "1 week ago",
+    "reading_time": 7,
+    "hashtags": ["#art", "#creativity"]
+  }
+]
